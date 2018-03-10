@@ -51,4 +51,19 @@
 	</build>
 
 
+	<repositories>
+		<repository>
+			<id>Netease Repository</id>
+			<url>http://mvn.hz.netease.com/artifactory/repo</url>
+			<name>Netease Repository</name>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+
+
+
 </project>
