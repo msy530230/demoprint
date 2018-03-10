@@ -54,7 +54,7 @@
 	<repositories>
 		<repository>
 			<id>Netease Repository</id>
-			<url>http://mvn.hz.netease.com/artifactory/repo</url>
+			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
 			<name>Netease Repository</name>
 			<snapshots>
 				<enabled>true</enabled>
